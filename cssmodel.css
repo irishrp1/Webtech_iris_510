@@ -1,0 +1,46 @@
+#wrapper
+{
+  width:980 px;
+  border: 1px solid #F00;
+  height: 1000px;
+  margin: 0px auto;
+}
+#mainContent
+{
+  height: 100px;
+  margin: 10px;
+  border: 1px solid #F00;
+
+}
+#main
+{
+  margin:20px;
+  height: 500px;
+  border: 1px solid #F00;
+}
+#foot
+{
+  margin: 10px;
+  height: 100px;
+  border: 1px solid #F00;
+}
+#left
+{
+  width:650px;
+  margin: 5px;
+  border: 1px solid #F00;
+  height: 350px;
+  float:left;
+}
+#right
+{
+  width:650px;
+  margin: 5px;
+  border: 1px solid #F00;
+  height: 350px;
+  float:right;
+}
+*
+{
+  padding:10px;
+}
